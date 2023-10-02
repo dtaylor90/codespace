@@ -9,4 +9,4 @@ elif name == "Ron":
 elif name == "Draco":
     print("Slytherin")
 else:
-    print("Who)
+    print("Who? ")
