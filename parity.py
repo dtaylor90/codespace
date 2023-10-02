@@ -1,9 +1,9 @@
 def main():
-    x = int(input( "what's x? "))
+    x = int(input("What's x? "))
     if is_even(x):
-    print( "EVEN")
-else:
-    print("Odd")
+        print("Even")
+    else:
+        print("Odd")
 
 
 def is_even(n):
@@ -11,6 +11,3 @@ def is_even(n):
         return True
     else:
         return False
-
-
-main()
